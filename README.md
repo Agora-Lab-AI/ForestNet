@@ -146,7 +146,7 @@ Intelligence metrics are calculated across three dimensions:
 If you use ForestNet in your research, please cite:
 
 ```bibtex
-@article{sylvanet2024,
+@article{ForestNet2024,
   title={ForestNet: A Deep Learning Framework for Quantifying Collective Forest Intelligence},
   author={Kye Gomez et al.},
   year={2024},
