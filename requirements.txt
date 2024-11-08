@@ -1,5 +1,8 @@
-swarms
-loguru
-python-dotenv
-pyyaml
-swarm-models
+torch 
+pandas 
+numpy 
+loguru 
+xarray 
+requests 
+scikit-learn 
+typing-extensions
